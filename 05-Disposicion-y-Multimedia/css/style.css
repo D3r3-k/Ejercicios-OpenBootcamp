@@ -1,5 +1,5 @@
 .galery{
-    display: flexbox;
+    display: flex;
     flex-wrap: wrap;
 }
 .img-galery {
